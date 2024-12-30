@@ -1,0 +1,74 @@
+﻿@model List<Online_Voting.DTos.CandidateDto>
+
+@{
+    ViewData["Title"] = "Vote For Your Party";
+}
+
+<div class="content">
+    <h2>📩 Vote For Your Party</h2>
+
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <div style="color: red;">@ViewBag.ErrorMessage</div>
+    }
+    else if (!Model.Any())
+    {
+        <div>No candidates found.</div>
+    }
+    else
+    {
+        <table border="1" style="width: 100%; text-align: left; margin-top: 20px;">
+            <thead>
+                <tr>
+                    <th>S.N</th>
+                    <th>Candidate Name</th>
+                    <th>Party</th>
+                    <th>Vote</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.Count; i++)
+                {
+                    <tr>
+                        <td>@(i + 1)</td>
+                        <td>@Model[i].Name</td>
+                        <td>@Model[i].Party</td>
+                        <td>
+                            <input type="radio" name="vote" value="@Model[i].CandidateId" />
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div style="margin-top: 20px;">
+            <button id="confirmVote">Confirm Vote</button>
+        </div>
+    }
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#confirmVote").on("click", function () {
+                const selectedCandidateId = $("input[name='vote']:checked").val();
+                if (!selectedCandidateId) {
+                    alert("Please select a candidate.");
+                    return;
+                }
+
+                $.ajax({
+                    url: "https://localhost:5001/api/Votes",
+                    type: "POST",
+                    contentType: "application/json",
+                    data: JSON.stringify({ candidateId: selectedCandidateId }),
+                    success: function () {
+                        alert("Vote submitted successfully.");
+                    },
+                    error: function () {
+                        alert("An error occurred while submitting your vote.");
+                    }
+                });
+            });
+        });
+    </script>

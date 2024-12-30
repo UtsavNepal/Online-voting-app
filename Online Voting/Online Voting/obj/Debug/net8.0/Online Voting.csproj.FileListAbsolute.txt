@@ -1,0 +1,30 @@
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\Online Voting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\Online Voting.AssemblyInfoInputs.cache
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\Online Voting.AssemblyInfo.cs
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\Online Voting.csproj.CoreCompileInputs.cache
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\Online Voting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\Online Voting.RazorAssemblyInfo.cache
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\Online Voting.RazorAssemblyInfo.cs
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\bin\Debug\net8.0\appsettings.json
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\bin\Debug\net8.0\Online Voting.staticwebassets.runtime.json
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\bin\Debug\net8.0\Online Voting.exe
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\bin\Debug\net8.0\Online Voting.deps.json
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\bin\Debug\net8.0\Online Voting.runtimeconfig.json
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\bin\Debug\net8.0\Online Voting.dll
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\bin\Debug\net8.0\Online Voting.pdb
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\staticwebassets\msbuild.Online Voting.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\staticwebassets\msbuild.build.Online Voting.props
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Online Voting.props
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Online Voting.props
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\scopedcss\bundle\Online Voting.styles.css
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\scopedcss\projectbundle\Online Voting.bundle.scp.css
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\Online Voting.dll
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\refint\Online Voting.dll
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\Online Voting.pdb
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\Online Voting.genruntimeconfig.cache
+C:\Users\ecs\Desktop\New stack programs\Online voting app\Online Voting\Online Voting\obj\Debug\net8.0\ref\Online Voting.dll

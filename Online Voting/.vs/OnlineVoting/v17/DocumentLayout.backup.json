@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|c:\\users\\ecs\\desktop\\new stack programs\\online voting app\\online voting\\online voting\\views\\vote\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|solutionrelative:online voting\\views\\vote\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|c:\\users\\ecs\\desktop\\new stack programs\\online voting app\\online voting\\online voting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|solutionrelative:online voting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|c:\\users\\ecs\\desktop\\new stack programs\\online voting app\\online voting\\online voting\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|solutionrelative:online voting\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|c:\\users\\ecs\\desktop\\new stack programs\\online voting app\\online voting\\online voting\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|solutionrelative:online voting\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|c:\\users\\ecs\\desktop\\new stack programs\\online voting app\\online voting\\online voting\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|solutionrelative:online voting\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|c:\\users\\ecs\\desktop\\new stack programs\\online voting app\\online voting\\online voting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|solutionrelative:online voting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|c:\\users\\ecs\\desktop\\new stack programs\\online voting app\\online voting\\online voting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|solutionrelative:online voting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|c:\\users\\ecs\\desktop\\new stack programs\\online voting app\\online voting\\online voting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|solutionrelative:online voting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|c:\\users\\ecs\\desktop\\new stack programs\\online voting app\\online voting\\online voting\\dtos\\votedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|solutionrelative:online voting\\dtos\\votedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|c:\\users\\ecs\\desktop\\new stack programs\\online voting app\\online voting\\online voting\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904F3EED-7FD7-4C8C-9503-5CD5CC64236B}|Online Voting\\Online Voting.csproj|solutionrelative:online voting\\dtos\\candidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Online Voting\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Online Voting\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:53:15.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Online Voting\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Online Voting\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:53:06.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Views\\Vote\\Index.cshtml",
+              "RelativeDocumentMoniker": "Online Voting\\Views\\Vote\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Views\\Vote\\Index.cshtml",
+              "RelativeToolTip": "Online Voting\\Views\\Vote\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T02:33:06.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\DTos\\VoteDto.cs",
+              "RelativeDocumentMoniker": "Online Voting\\DTos\\VoteDto.cs",
+              "ToolTip": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\DTos\\VoteDto.cs",
+              "RelativeToolTip": "Online Voting\\DTos\\VoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:31:53.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\DTos\\CandidateDto.cs",
+              "RelativeDocumentMoniker": "Online Voting\\DTos\\CandidateDto.cs",
+              "ToolTip": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\DTos\\CandidateDto.cs",
+              "RelativeToolTip": "Online Voting\\DTos\\CandidateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:31:45.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Program.cs",
+              "RelativeDocumentMoniker": "Online Voting\\Program.cs",
+              "ToolTip": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Program.cs",
+              "RelativeToolTip": "Online Voting\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:31:02.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Online Voting\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Online Voting\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T02:18:40.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VoteController.cs",
+              "DocumentMoniker": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Controllers\\VoteController.cs",
+              "RelativeDocumentMoniker": "Online Voting\\Controllers\\VoteController.cs",
+              "ToolTip": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Controllers\\VoteController.cs",
+              "RelativeToolTip": "Online Voting\\Controllers\\VoteController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:29:07.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "Online Voting\\Models\\Candidate.cs",
+              "ToolTip": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\Models\\Candidate.cs",
+              "RelativeToolTip": "Online Voting\\Models\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:21:32.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\appsettings.json",
+              "RelativeDocumentMoniker": "Online Voting\\appsettings.json",
+              "ToolTip": "C:\\Users\\ecs\\Desktop\\New stack programs\\Online voting app\\Online Voting\\Online Voting\\appsettings.json",
+              "RelativeToolTip": "Online Voting\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T02:48:37.538Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
